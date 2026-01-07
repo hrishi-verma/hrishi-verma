@@ -18,4 +18,4 @@ I’m driven by simple curiosity—I just like understanding how things work, wh
 
 Always open to interesting problems, thoughtful discussions, and collaboration.
 
-[LinkedIn](https://[www.linkedin.com/in/hrishikesh-verma]) / [Email](mailto:rishi.verma50@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hrishikesh-verma/)/ [Email](mailto:rishi.verma50@gmail.com)
