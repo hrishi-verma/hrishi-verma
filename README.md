@@ -1,4 +1,4 @@
-# Hi, I'm Hrishi.
+# Hi, I'm Rishi.
 
 I’m a software engineer and CS Master’s student who enjoys building web systems that are fast, scalable, and thoughtfully designed.
 
