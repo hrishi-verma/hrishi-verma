@@ -14,7 +14,7 @@ While my deep expertise is in the JavaScript ecosystem (React/TypeScript), I tre
 * **Refining:** Component patterns and state management strategies.
 * **Exploring:** The intersection of algorithm efficiency and real-world performance.
 
-I’m driven by simple curiosity—I just like understanding how things work, whether it’s a compiler or a coffee machine.
+I’m driven by simple curiosity; I just like understanding how things work, whether it’s a compiler or a coffee machine.
 
 Always open to interesting problems, thoughtful discussions, and collaboration.
 
